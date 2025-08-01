@@ -47,13 +47,32 @@ A facial expression recognition-based login system with a pinky promise captcha 
 - Webcam (for facial recognition)  
 - Computer (duh)  
 
+### For Software:
+- *Languages used:* Python, JavaScript, HTML, CSS  
+- *Frameworks used:* Flask  
+- *Libraries used:* OpenCV, Matplotlib, face-api.js, NumPy  
+- *Tools used:* VS Code, browser, camera
+
+### For Hardware:
+- Webcam (for facial recognition)  
+- Computer (duh)  
+
 ---
 
-## Implementation  
+## 🚀 Implementation
 
-### For Software:  
+### Installation:
+bash
+pip install flask opencv-python matplotlib numpy
 
-#### Installation  
+
+### Run:
+bash
+python app.py
+
+Visit: http://127.0.0.1:5000
+
+--- 
 
 # Example installation steps
 git clone https://github.com/your-repo/project.git  
@@ -64,9 +83,12 @@ npm install
 
 ### Screenshots:
 
-![Login Page](login_page_1.jpg) – The emoji-based login interface  
-![Pinky Promise](login_page_2.jpg) – Confetti-filled pinky captcha  
-![Papadam Counter](papadam_counter.jpg) – Bump-detection results
+![Login Page](![WhatsApp Image 2025-08-02 at 03 47 18_663b51de](https://github.com/user-attachments/assets/473b98a4-0aad-4d13-afe8-87fcd5dbae9d)
+) – The emoji-based login interface  
+![Pinky Promise](![WhatsApp Image 2025-08-02 at 03 47 18_8a0fdab1](https://github.com/user-attachments/assets/33bb007c-76f7-473c-bb5b-92bc2d3ff353)
+) – Confetti-filled pinky captcha  
+![Papadam Counter](![WhatsApp Image 2025-08-02 at 03 47 18_306f3f74](https://github.com/user-attachments/assets/76c315b8-9967-4b2e-91f7-16646a26a8c4)
+) – Bump-detection results
 
 ---
 
