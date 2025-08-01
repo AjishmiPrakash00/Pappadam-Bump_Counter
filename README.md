@@ -78,8 +78,6 @@ npm install
 ![Papadam Counter](![3](https://github.com/user-attachments/assets/40ee26a4-5e4a-4172-ae30-84c98983ef58)
 ) – Bump-detection results
 
-
-
 ---
 
 ## 👩‍💻 Team Contributions
