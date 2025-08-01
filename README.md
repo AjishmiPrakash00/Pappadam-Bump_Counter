@@ -1,3 +1,4 @@
+<img width="3188" height="1202" alt="image" src="https://github.com/user-attachments/assets/e996b26d-f0ab-4a7f-ad5f-ed8dcae29228" />
 
 # 🤪 Useless Project — Emoji Login + Papadam Bump Counter
 
