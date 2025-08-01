@@ -70,17 +70,12 @@ npm install
 
 ### Screenshots:
 
-![Login Page](![WhatsApp Image 2025-08-02 at 03 47 18_663b51de](https://github.com/user-attachments/assets/473b98a4-0aad-4d13-afe8-87fcd5dbae9d)
-) – The emoji-based login interface  
-![Pinky Promise](![WhatsApp Image 2025-08-02 at 03 47 18_8a0fdab1](https://github.com/user-attachments/assets/33bb007c-76f7-473c-bb5b-92bc2d3ff353)
-) – Confetti-filled pinky captcha  
-![Papadam Counter](![WhatsApp Image 2025-08-02 at 03 47 18_306f3f74](https://github.com/user-attachments/assets/76c315b8-9967-4b2e-91f7-16646a26a8c4)
-) – Bump-detection results
-
----
-
-## 🎬 Project Demo
-[Add your demo video link here] – A walkthrough of login + bump counter
+![Login Page][WhatsApp Image 2025-08-02 at 03 47 18_663b51de](https://github.com/user-attachments/assets/473b98a4-0aad-4d13-afe8-87fcd5dbae9d)
+– The emoji-based login interface  
+![Pinky Promise][WhatsApp Image 2025-08-02 at 03 47 18_8a0fdab1](https://github.com/user-attachments/assets/33bb007c-76f7-473c-bb5b-92bc2d3ff353)
+ – Confetti-filled pinky captcha  
+![Papadam Counter][WhatsApp Image 2025-08-02 at 03 47 18_306f3f74](https://github.com/user-attachments/assets/76c315b8-9967-4b2e-91f7-16646a26a8c4)
+ – Bump-detection results
 
 ---
 
