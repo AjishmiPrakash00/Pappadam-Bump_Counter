@@ -31,22 +31,7 @@ A facial expression recognition-based login system with a pinky promise captcha 
 
 ## Technical Details  
 
-### Technologies/Components Used  
-
-#### For Software:
-- **Languages Used:**  
-  - Python<HTML,CSS,JS 
-- **Frameworks Used:**  
-  - Flask 
-- **Libraries Used:**  
-  - Matplotlib,Open CV,Numpy,face-api.js
-- **Tools Used:**  
-  - VS Code
-
-#### For Hardware:
-- Webcam (for facial recognition)  
-- Computer (duh)  
-
+ 
 ### For Software:
 - *Languages used:* Python, JavaScript, HTML, CSS  
 - *Frameworks used:* Flask  
@@ -55,7 +40,9 @@ A facial expression recognition-based login system with a pinky promise captcha 
 
 ### For Hardware:
 - Webcam (for facial recognition)  
-- Computer (duh)  
+- Computer (duh)
+- browser
+- camera  
 
 ---
 
